@@ -5,7 +5,7 @@ Do or do not, there is no try!
 
 **1.** Crie um **fork** deste projeto.
 
-**2.** Desenvolva os requesitos descritos abaixo.
+**2.** Desenvolva a história descrita abaixo.
 
 **3.** Depois de concluir, faça um **pull request** contendo tudo que você desenvolveu, informando seu e-mail na descrição do Pull Request.
 
